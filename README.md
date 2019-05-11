@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ff6da28e-86a4-4b0a-af76-985ae57dc457/deploy-status)](https://app.netlify.com/sites/sure-patience/deploys)
